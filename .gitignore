@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But allow these
+!steps/
+!steps/**
+!utils/
+!utils/**
+!config.py
+!main.py
+!.gitignore
